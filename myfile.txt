@@ -1,1 +1,1 @@
-Hellow world! My name is Adam!
+Hello world! My name is Adam!
